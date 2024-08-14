@@ -13,7 +13,7 @@ export default {
       },
       screens: {
       qs: { max: "479px" },
-      sm: { min: "480px" },
+      sm: { min: "689px" },
       md: { min: "768px" },
       lg: { min: "976px" },
       xl: { min: "1440px" },
